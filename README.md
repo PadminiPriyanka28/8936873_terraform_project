@@ -101,15 +101,6 @@ ssh -i your-key.pem ec2-user@3.95.120.45
 
 ---
 
-## 📸 Screenshots to Include
-
-- EC2 instance running
-- Terraform `apply` output
-- S3 bucket showing `terraform.tfstate` (with versioning)
-- DynamoDB table with lock record (optional)
-
----
-
 ## 🧠 What I Learned
 
 - Infrastructure provisioning with Terraform
